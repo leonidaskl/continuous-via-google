@@ -24,13 +24,6 @@ from flask import Flask, request
 from google.cloud import secretmanager_v1, pubsub_v1
 from hashlib import sha1
 
-#test 1, 2, 3
-#test vol 10.
-#and going
-#and still going
-#keep it up
-#FINAL PUSHHHH
-#and the final pushhh
 
 app = Flask(__name__)
 
